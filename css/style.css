@@ -151,7 +151,7 @@ header.header {
 
 .table-header {
     width: 100%;
-    background: #0b890e;
+    background: #142f28;
     display: flex;
 }
 
@@ -305,7 +305,7 @@ header.header {
     position: relative;
     width: 50%;
     display: flex;
-    background: #0b890e;
+    background: #142f28;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -362,10 +362,7 @@ header.header {
     display: none;
 }
 
-.mobile-view .review-btn {
-    background: #000;
-    border: 1px solid #000;
-}
+
 
 .content-tp-footer {
     background: rgba(0, 0, 0, .6);
